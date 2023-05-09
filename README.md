@@ -1,6 +1,6 @@
 # Telangana-Government-Tourism-Department
 
-This project is a part of codebasics' resume challenge number 5. 
+This project is based on codebasics' resume challenge number 5. 
 
 The brief for the challenge is as follows -->
 
