@@ -1,4 +1,4 @@
-# Telangana-Government-Tourism-Department
+# Telangana-Tourism-Insights
 
 This project is based on codebasics' resume challenge number 5. 
 
