@@ -89,7 +89,7 @@ WITH visitors16 AS(
  ORDER BY 'd/f' DESC;
 
 
-  --Bottom 3 districts with domestic to foreign tourist ratio
+  --Bottom 3 districts based on domestic to foreign tourist ratio
  WITH d AS(
  SELECT district, SUM(visitors) AS domestic_visitors 
  FROM domestic_visitors
